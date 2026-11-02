@@ -36,7 +36,7 @@
         "symfony/finder": "^v5.4",
         "symfony/http-kernel": "^v5.4",
         "symfony/yaml": "^v5.4",
-        "symfony/mime": "^5.4",
+        "symfony/mime": "^8.1",
         "twig/twig": "^3.0",
         "webignition/internet-media-type": "^0.4.8"
     },
